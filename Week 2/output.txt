@@ -1,0 +1,9 @@
+Keyword: if
+Identifier: x
+Identifier: y
+Keyword: else
+Identifier: y
+Keyword: while
+Identifier: y
+Identifier: y
+Identifier: y
